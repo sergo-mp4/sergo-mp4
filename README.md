@@ -10,4 +10,4 @@ list = [
 *   Programming Languages: [C++/C, FRONTEND]
 *   Development Tools: [VSCODE]
   
-  ]
+  ];
