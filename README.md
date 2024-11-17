@@ -7,7 +7,7 @@
 
 list = [
 *   Operating System: [WINDOWS]
-*   Programming Languages: [C++/C, FRONTEND]
+*   Programming Languages: [FLIXEL, C++/C, FRONTEND]
 *   Development Tools: [VSCODE]
   
   ]
